@@ -9,3 +9,5 @@ Conceptual Diagram of the Project
 
 Phase 1 - Segmentation (DeeplabV3+)
 Phase 2- Classification (Vision Transformers)
+
+Dataset used is a custom real time maize leaf dataset - [Link](https://drive.google.com/file/d/177QFP7iPH8StX4QNfYn3BJD1bB-tvIWv/view?usp=sharing)
